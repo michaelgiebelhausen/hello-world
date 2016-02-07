@@ -1,2 +1,3 @@
 # hello-world
-as per the github training exercise
+As per the github training exercise, this is a read-me file. 
+This softwared does nothing.
